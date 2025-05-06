@@ -1,8 +1,8 @@
 # US Smartphone Market Analysis and 2025 Prediction
 ## Overview:
 This repository contains the code and documentation for my Machine Learning and Data Analysis project on the US Smartphone Market dataset. 
-The data was collected by one of the vendors in the United States, which was altered to show similarities with the real data. 
-The goal of this project is to 1)Analyze Yearly & Qaurterly Trend - Q1'22~Q4'24 (Volume, Revenue & Average Sales Pricing) and 2) Examine the monthly trend and identify the top 5 significant changes, and 3) Forecast the 2025 US smartphone market in terms of volume, revenue, and average selling price (ASP)
+- The data was collected by one of the vendors in the United States, which was altered to show similarities with the real data. 
+- The goal of this project is to 1)Analyze Yearly & Qaurterly Trend - Q1'22~Q4'24 (Volume, Revenue & Average Sales Pricing) and 2) Examine the monthly trend and identify the top 5 significant changes, and 3) Forecast the 2025 US smartphone market in terms of volume, revenue, and average selling price (ASP)
 
 ## Project Objectives:
 - Clean and explore the raw dataset to understand its structure and characteristics.
@@ -14,7 +14,7 @@ The goal of this project is to 1)Analyze Yearly & Qaurterly Trend - Q1'22~Q4'24 
 - Data cleaning and preprocessing to handle missing values, redundant values, and outliers.
 - Feature Engineering to include external variables mentioned above.
 - Exploratory data analysis to understand the distribution and relationships of variables.
-- - Visualization of key insights using Tableau.
+- Visualization of key insights using Tableau.
 Documentation of analysis steps, insights, and recommendations.
 
 ## Dependencies:
